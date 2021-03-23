@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557839197 source:e:\facultate\anul i sem ii\tehnici de programare\tema\tema 3\p4v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
