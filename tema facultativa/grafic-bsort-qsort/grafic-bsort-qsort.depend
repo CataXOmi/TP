@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553810176 source:e:\facultate\anul i sem ii\tehnici de programare\tema\grafic-bsort-qsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+

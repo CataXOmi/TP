@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553856319 source:e:\facultate\anul i sem ii\tehnici de programare\tema\anagramep7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
